@@ -16,7 +16,7 @@ The **HR Analytics Dashboard** provides a data-driven approach to analyzing work
 - **Laboratory Technicians & Sales Executives** show significant attrition trends
 
 ## 📷 Dashboard Preview
-![HR Analytics Dashboard](HR_Analytics_Dashboard.jpg)
+![HR Analytics Dashboard](https://github.com/Dataworld123/HR_Analytics_Dashboard-/blob/main/HR%20Analytics%20project%20Dashboard_page-0001.jpg))
 
 ## 🛠️ Tech Stack
 - **Data Visualization Tool**: Power BI / Tableau / Python (Matplotlib & Seaborn)
