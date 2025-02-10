@@ -26,7 +26,7 @@ The **HR Analytics Dashboard** provides a data-driven approach to analyzing work
 ## 📂 Project Structure
 ```
 ├── data/               # Raw & processed datasets
-├── powerBi/          # Jupyter notebooks for data analysis
+├── powerBi/          #  for data analysis
 ├── src/                # Source code for data processing & visualization
 ├── dashboard/          # Power BI or Streamlit dashboard files
 ├── README.md           # Project documentation
